@@ -1,4 +1,16 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://complexvector.space/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Maximilian R.'
 theme = 'hugo-PaperMod'
+
+[params.homeInfoParams]
+Title = "Hi there"
+Content = "Can be Info, links, about..."
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/maxi0604"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:public@complexvector.space"
