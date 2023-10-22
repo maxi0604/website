@@ -5,7 +5,7 @@ theme = 'hugo-PaperMod'
 
 [params.homeInfoParams]
 Title = "Hi there"
-Content = "Can be Info, links, about..."
+Content = "Welcome to my personal website. I might post here from time to time"
 
 [[params.socialIcons]]
 name = "github"
