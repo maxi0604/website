@@ -1,6 +1,6 @@
 baseURL = 'https://complexvector.space/'
 languageCode = 'en-us'
-title = 'Maximilian R.'
+title = 'ℂ²'
 theme = 'hugo-PaperMod'
 
 [params.homeInfoParams]
