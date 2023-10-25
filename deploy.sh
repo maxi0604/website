@@ -1,2 +1,2 @@
 #!/usr/bin/zsh
-ssh maxi@complexvector.space ~/deploy.sh
+ssh maxi@complexvector.space '$HOME/deploy.sh'
