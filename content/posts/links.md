@@ -7,3 +7,4 @@ Wouldn't it be nice to have a collection of interesting/weird/quirky things you 
 but at least I can offer a collection of weird/interesting/quirky things *I* see on the Internet.
 
 - https://research.swtch.com/shmacro
+- https://matthias-research.github.io/pages/tenMinutePhysics/17-fluidSim.pdf
