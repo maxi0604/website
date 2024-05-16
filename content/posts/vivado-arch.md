@@ -6,7 +6,7 @@ draft = false
 
 > TLDR: `paru -S ncurses5-compat-libs` or the installer will hang.
 
-When you want to design hardware, you'll likely start by developing for an FPGA. You have two main options for this, namely AMD's Vivado or Intel's (previously Altera's) Quartus Prime.
+When you want to design hardware, you'll likely start by developing for an FPGA. You have two main options for this, namely AMD's Vivado or Intel's (previously Altera's) Quartus Prime. This article documents how I run the former on [Arch Linux](https://archlinux.org).
 
 # Installation
 To install Vivado 2023.2 on Arch Linux (without the AUR package, since I've been told it doesn't work), one can:
