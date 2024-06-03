@@ -5,6 +5,7 @@ draft = false
 +++
 
 > TLDR: `paru -S ncurses5-compat-libs` or the installer will hang.
+> Also, read the wonderful [Arch Wiki page](https://wiki.archlinux.org/title/Xilinx_Vivado) to which I contributed this information
 
 When you want to design hardware, you'll likely start by developing for an FPGA. You have two main options for this, namely AMD's Vivado or Intel's (previously Altera's) Quartus Prime. This article documents how I run the former on [Arch Linux](https://archlinux.org).
 
