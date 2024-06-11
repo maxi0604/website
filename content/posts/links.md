@@ -9,3 +9,4 @@ but at least I can offer a collection of weird/interesting/quirky things *I* see
 - https://research.swtch.com/shmacro
 - https://matthias-research.github.io/pages/tenMinutePhysics/17-fluidSim.pdf
 - https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/
+- https://www.catb.org/~esr/faqs/hacker-howto.html
