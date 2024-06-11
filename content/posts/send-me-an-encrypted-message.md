@@ -20,7 +20,11 @@ I find GPG to be a deeply annoying cryptosystem. It's technical flaws are laid o
 There are probably many other complaints about the software that I would discover if I interacted with it more than I am forced to by KDE's secret storage, the [Arch Build System](https://wiki.archlinux.org/title/Arch_build_system) and other pieces of software whose authors consider GPG to be "the standard".
 
 # `rage` Against The Machine instead
-[`age`](https://age-encryption.org) and its reimplementation [`rage`](https://github.com/str4d/rage) are simple encryption tools that can use short and convenient key formats like SSH keys or their own format, which are short enough for a 140 character tweet while not lacking much functionality compared to the alternative. There is a [specification](https://github.com/C2SP/C2SP/blob/main/age.md) that appears to have been designed by knowledgable cryptographers but is still simple enough for even a knobheaded programmer to reimplement (given implementations of the underlying cryptography). With this in mind, you could now: Build some software on top of `age`, replace the GPG key on your site with an SSH key, or run the command above to encrypt a message just for me.
+[`age`](https://age-encryption.org) and its reimplementation [`rage`](https://github.com/str4d/rage) are simple encryption tools that can use short and convenient key formats like SSH keys or their own format, which are short enough for a 140 character tweet while not lacking much functionality compared to the alternative. 
+
+There is a [specification](https://github.com/C2SP/C2SP/blob/main/age.md) that appears to have been designed by knowledgable cryptographers but is still simple enough for a disinterested programmer to reimplement (given implementations of the underlying cryptography). 
+
+With this in mind, you could now: Build some software on top of `age`, replace the GPG key on your site with an SSH key, or run the command above to encrypt a message just for me.
 
 # Or maybe not
 While it's fun to think about and discuss these generic encryption tools, I think for most private communication something like [Signal](https://signal.org/) is preferable.
