@@ -6,7 +6,7 @@ draft = false
 
 TLDR:
 ```
-paru rage
+paru -S rage-encryption
 rage -ar "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIESMjtNwNNyvuKbfn1ev4xnAg4ZZnbd6ApoF1KexJgAY"
 # type in, then deliver the message to me however you wish
 ```
