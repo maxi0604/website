@@ -17,6 +17,7 @@ I find GPG to be a deeply annoying cryptosystem. It's technical flaws are laid o
 - Pollutes my `$HOME` directory with [dotfiles](https://hiphish.github.io/blog/2020/08/30/dotfiles-were-a-mistake/), rather than using [appropriate directories for app data](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html).
 - Offers about 5 outdated or potentially backdoored algorithms when creating a key using its multi-step process
 - Asks me to tie my legal name and an e-mail address to everything I use it for
+
 There are probably many other complaints about the software that I would discover if I interacted with it more than I am forced to by KDE's secret storage, the [Arch Build System](https://wiki.archlinux.org/title/Arch_build_system) and other pieces of software whose authors consider GPG to be "the standard".
 
 # `rage` Against The Machine instead
