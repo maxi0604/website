@@ -12,7 +12,7 @@ rage -ar "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIESMjtNwNNyvuKbfn1ev4xnAg4ZZnbd6Ap
 ```
 
 # Obligatory GPG rant
-I find GPG to be a deeply annoying cryptosystem. It's technical flaws are laid out well [here](https://www.latacora.com/blog/2019/07/16/the-pgp-problem/), but the main problem with it is that it does not spark joy. GPG keys are unwieldy, expire from time to time and come with an unpleasant piece of software that...
+I find GPG to be a deeply annoying cryptosystem. Its technical flaws are laid out well [here](https://www.latacora.com/blog/2019/07/16/the-pgp-problem/), but the main problem with it is that it does not spark joy. GPG keys are unwieldy, expire from time to time and come with an unpleasant piece of software that...
 - Features 643 (!) command line options (according to zsh-completions) for about six pieces of core functionality: Encrypt, decrypt, sign and verify information; Generate and manage keys to facilitate that
 - Pollutes my `$HOME` directory with [dotfiles](https://hiphish.github.io/blog/2020/08/30/dotfiles-were-a-mistake/), rather than using [appropriate directories for app data](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html).
 - Offers about 5 outdated or potentially backdoored algorithms when creating a key using its multi-step process
