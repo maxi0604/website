@@ -10,3 +10,4 @@ but at least I can offer a collection of weird/interesting/quirky things *I* see
 - https://matthias-research.github.io/pages/tenMinutePhysics/17-fluidSim.pdf
 - https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/
 - https://www.catb.org/~esr/faqs/hacker-howto.html
+- https://www.shlomifish.org/humour/by-others/funroll-loops/Gentoo-is-Rice.html
