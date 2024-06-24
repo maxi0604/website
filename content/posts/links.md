@@ -12,3 +12,4 @@ but at least I can offer a collection of weird/interesting/quirky things *I* see
 - https://www.catb.org/~esr/faqs/hacker-howto.html
 - https://www.shlomifish.org/humour/by-others/funroll-loops/Gentoo-is-Rice.html
 - https://www.datagubbe.se/stupidslow/
+- https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml
